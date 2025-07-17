@@ -1,2 +1,4 @@
 # prepCourse-henry
-primer repositorio del modulo2 del prepcoourse de henry
+prueba de como clonar un repositorio desde gib hub a mi escritorio
+
+
